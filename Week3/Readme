@@ -1,0 +1,16 @@
+Student Manager Assignment
+
+ Description
+This is a Java program to manage student records.  
+It allows adding, viewing, updating, and deleting students, with data saved to a file using serialization.
+
+
+
+Features
+- Add new students (`ID`, `Name`, `Age`, `Grade`, `Address`)
+- View all students
+- Update student details by ID
+- Delete students by ID
+- Data persists in a file (`students.ser`) between program runs
+
+
